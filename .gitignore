@@ -15,3 +15,9 @@ data/raw/*.zip
 
 # macOS
 .DS_Store
+
+# Tableau temporary files
+.~*.twbr
+
+# Exported dashboard data
+data/dashboard/
